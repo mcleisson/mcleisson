@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Banco de dados: <strong>MySQL, SQL Server, Oracle, Sybase</strong>
+  🦄 Banco de dados: <strong>MySQL, SQL Server, Oracle, Sybase, PostgreSQL</strong>
 </p>
 
 <p align="left">
