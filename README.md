@@ -6,7 +6,11 @@
 </p>-->
 
 <p align="left">
-  🦄 Linguagens: <strong>Ruby on Rails, PHP, MySQL, SQL Server, Oracle, Sybase, VUE.JS.</strong>
+  🦄 Linguagens: <strong>Ruby on Rails, PHP, VUE.JS.</strong>
+</p>
+
+<p align="left">
+  🦄 Banco de dados: <strong>MySQL, SQL Server, Oracle, Sybase</strong>
 </p>
 
 <p align="left">
@@ -18,8 +22,8 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mcleisson@gmail.comL" /></a>
+  <a href="mcleisson@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mcleisson@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/mcleisson/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcleisson/" /></a>
