@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Sublime Text, Visual Studio.</strong>
+  💼 Ferramentas: <strong>VS Code, Sublime Text, Visual Studio, Git, GitHub, Trello, Slack.</strong>
 </p>
 
 <p align="left">
