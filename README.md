@@ -17,8 +17,10 @@
 <p align="left">
   💼 Ferramentas: <strong>VS Code, Sublime Text, Visual Studio, Git, GitHub, Trello, Slack.</strong>
 </p>
-
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleisson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+[![Marcel wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mcleisson)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
   💌 Formas de contato: ⤵️
 </p>
