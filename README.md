@@ -7,7 +7,7 @@
 </p>-->
 
 <p align="left">
-  🦄 Linguagens: <strong>Ruby on Rails, PH</strong>
+  🦄 Linguagens: <strong>Ruby on Rails, PHP</strong>
 </p>
 
 <p align="left">
