@@ -17,6 +17,7 @@
 <p align="left">
   💼 Ferramentas: <strong>VS Code, Sublime Text, Visual Studio, Git, GitHub, Trello, Slack.</strong>
 </p>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleisson&layout=compact)](https://github.com/mcleisson/github-readme-stats)
 <p align="left">
   💌 Formas de contato: ⤵️
